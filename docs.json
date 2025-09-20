@@ -13,6 +13,14 @@
       {
         "tab": "Guides",
         "groups": [
+           {
+            "group": "FAQs",
+            "pages": [
+              "faqs",
+              "quickstart",
+              "development"
+            ]
+          },
           {
             "group": "Getting started",
             "pages": [
