@@ -7,6 +7,9 @@
     "light": "#07C983",
     "dark": "#15803D"
   },
+  "logo": {
+    "href": ""
+  },
   "favicon": "/favicon.svg",
   "navigation": {
     "tabs": [
@@ -14,9 +17,9 @@
         "tab": "Guides",
         "groups": [
            {
-            "group": "FAQs",
+            "group": "GETTING STARTED",
             "pages": [
-              "faqs",
+              "install-revamp-theme",
               "quickstart",
               "development"
             ]
