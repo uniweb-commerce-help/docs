@@ -19,7 +19,7 @@
            {
             "group": "GETTING STARTED",
             "pages": [
-              "install-revamp-theme",
+              "/gettingstarted/install-revamp-theme",
               "quickstart",
               "development"
             ]
